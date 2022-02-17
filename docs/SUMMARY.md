@@ -8,6 +8,6 @@
 * [傅里叶变换](01-signal-processing/02-fourier-transform.md)
 * [卷积与反卷积](01-signal-processing/03-convolution.md)
 
-## 信号处理基础 <a id="02-speach-separation"></a>
+## 语音分离 <a id="02-speach-separation"></a>
 
 
